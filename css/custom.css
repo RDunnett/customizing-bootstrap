@@ -4,8 +4,45 @@
   background-color: #181853;
 }
 
-.nav-link:hover {
+.navbar a {
+  color: white;
+}
+
+.navbar a:hover {
   color: #A04ADD;
+}
+
+h1, .h1 {
+  font-size: 0.052rem;
+}
+
+h2, .h2 {
+  font-size: 2.441rem;
+}
+
+h3, .h3 {
+  font-size: 1.953rem;
+}
+
+h4, .h4 {
+  font-size: 1.563rem;
+}
+
+h5, .h5 {
+  font-size: 1.25rem;
+}
+
+h6, .h6 {
+  font-size: 1rem;
+}
+
+.navbar-brand {
+  font-family: "Libre Baskerville", serif;
+}
+
+footer {
+  background-color: #181853;
+  color: #f2f2f2;
 }
 
 /*!
